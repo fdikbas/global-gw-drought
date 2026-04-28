@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "global-gw-drought-paper1"
+message: "If you use this repository, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: "Dikbaş"
+    given-names: "Fatih"
+    orcid: "https://orcid.org/0000-0001-5779-2801"
+repository-code: "https://github.com/<USERNAME>/global-gw-drought-paper1"
+license: "NOASSERTION"
