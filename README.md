@@ -30,7 +30,7 @@ This repository **does not include standalone figure-generation helper scripts**
 
 ## Suggested repository citation
 
-Dikbaş, F. (2026). *global-gw-drought: Observation-based screening of persistent groundwater depletion from global groundwater anomalies* [Code repository]. GitHub. URL to be added after repository creation.
+Dikbaş, F. (2026). *global-gw-drought: Observation-based screening of persistent groundwater depletion from global groundwater anomalies* [Code repository]. GitHub. (https://github.com/fdikbas/global-gw-drought/tree/main).
 
 ## Recommended repository description
 
